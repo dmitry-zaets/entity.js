@@ -1,0 +1,11 @@
+{
+  name: "entity.js",
+  version: "0.0.0",
+  description: "entity.js",
+  repository: {
+    type: "git",
+    url: "git://github.com/dmitry-zaets/entity.js.git"
+  },
+  devDependencies: {
+  }
+}
